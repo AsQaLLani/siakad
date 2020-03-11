@@ -1,0 +1,22 @@
+[
+{
+	"username":"asqallani",
+	"password":"admin",
+	"nama":"Ibnu Asqallani",
+	"gender":"Laki laki",
+	"nim":100050403,
+	"nik":10005042003,
+	"alamat":"JL.Tani Bersaudara",
+	"kota":"Medan"
+},
+{
+	"username":"ali",
+	"password":"password",
+	"nama":"Ali Azhar",
+	"gender":"Laki laki",
+	"nim":100050415,
+	"nik":10005042015,
+	"alamat":"JL.Tani Bersaudara",
+	"kota":"Medan",
+},
+]
