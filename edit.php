@@ -6,7 +6,7 @@ $anggota=file_get_contents($file);
 $data=json_decode($anggota,true);
 
 foreach ($data as $key=>$d) {
-	if($d['tanggal']===11){
+	if($d['tanggal']==='11'){
 		$data[$key]['bulan']='Anjay';
 	}
 }
