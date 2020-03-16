@@ -1,5 +1,5 @@
 <?php
-$file="beranda.json";
+$file="https://asqallani.github.io/siakad/beranda.json";
 
 $anggota=file_get_contents($file);
 
